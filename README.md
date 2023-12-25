@@ -7,7 +7,7 @@ PyColorConsole is a simple Python package that provides a convenient way to add 
 You can install PyColorConsole using pip:
 
 ```bash
-pip install git+https://github.com/pycolorconsole/pycolorconsole.git
+pip install git+https://github.com/SeasonalKirito/pycolorconsole.git
 ```
 
 ## Usage 🎨
