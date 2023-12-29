@@ -1,4 +1,4 @@
-from pycolorconsole import log, init, ColorPalette
+from pycolorconsole import log, init, Fore
 
 init(True)
-print(log(ColorPalette.RED, "Text"))
+print(log(Fore.RED, "Text"))
