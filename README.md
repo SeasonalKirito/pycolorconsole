@@ -15,26 +15,27 @@ pip install git+https://github.com/SeasonalKirito/pycolorconsole.git
 ### Fore
 
 The `Fore` class provides predefined color codes for use in your console output:
+```py
+RESET           = 0
 
-- RESET           = 0
-- 
-- BLACK           = 30
-- RED             = 31
-- GREEN           = 32
-- YELLOW          = 33
-- BLUE            = 34
-- MAGENTA         = 35
-- CYAN            = 36
-- WHITE           = 37
-- 
-- LIGHTBLACK      = 90
-- LIGHTRED        = 91
-- LIGHTGREEN      = 92
-- LIGHTYELLOW     = 93
-- LIGHTBLUE       = 94
-- LIGHTMAGENTA    = 95
-- LIGHTCYAN       = 96
-- LIGHTWHITE      = 97
+BLACK           = 30
+RED             = 31
+GREEN           = 32
+YELLOW          = 33
+BLUE            = 34
+MAGENTA         = 35
+CYAN            = 36
+WHITE           = 37
+
+LIGHTBLACK      = 90
+LIGHTRED        = 91
+LIGHTGREEN      = 92
+LIGHTYELLOW     = 93
+LIGHTBLUE       = 94
+LIGHTMAGENTA    = 95
+LIGHTCYAN       = 96
+LIGHTWHITE      = 97
+```
 
 ### Functions
 
